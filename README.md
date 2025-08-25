@@ -128,7 +128,7 @@ See [`requirements.txt`](./requirements.txt).
 
 Here’s how the web interface looks:
 
-![Demo Screenshot](demo.jpg)
+![Demo Screenshot](demo.png)
 
 > Add a screenshot of your running app and save it as `demo.png` in the project root.
 
