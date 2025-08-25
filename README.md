@@ -30,6 +30,14 @@ It provides both a training script and a Flask-based web application with a drag
 
 ---
 
+## 📊 Dataset
+
+We use the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease) which contains over **50,000 images** of healthy and diseased plant leaves categorized into multiple classes.
+
+Download the dataset from Kaggle and place it in a folder named `PlantVillage/` before running training.
+
+---
+
 ## ⚙️ Setup & Installation
 
 1. **Clone this repository**
@@ -117,7 +125,12 @@ See [`requirements.txt`](./requirements.txt).
 ---
 
 ## 📸 Demo
-Drag & drop a leaf image in the UI to classify plant diseases.
+
+Here’s how the web interface looks:
+
+![Demo Screenshot](demo.jpg)
+
+> Add a screenshot of your running app and save it as `demo.png` in the project root.
 
 ---
 
