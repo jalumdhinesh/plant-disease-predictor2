@@ -124,15 +124,3 @@ See [`requirements.txt`](./requirements.txt).
 
 ---
 
-## 📸 Demo
-
-Here’s how the web interface looks:
-
-![Demo Screenshot](demo.png)
-
-> Add a screenshot of your running app and save it as `demo.png` in the project root.
-
----
-
-## 📜 License
-MIT License © 2025 Your Name
